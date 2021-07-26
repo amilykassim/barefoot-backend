@@ -1,6 +1,6 @@
 // Define variables.
 // TODO: Customise these values. Must match the values in the deployment.yaml file.
-def app_name = "bulk-worker-service"
+def app_name = "sms-mtn-agent-service-dev"
 def environment = "prod"
 def major_version = "1"
 def minor_version = "1"
