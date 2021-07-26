@@ -1,6 +1,6 @@
 // Define variables.
 // TODO: Customise these values. Must match the values in the deployment.yaml file.
-def app_name = "sms-gateway-node-service-dev"
+def app_name = "bulk-worker-service"
 def environment = "prod"
 def major_version = "1"
 def minor_version = "1"
